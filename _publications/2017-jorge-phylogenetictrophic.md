@@ -1,11 +1,11 @@
 ---
-title: "HPhylogenetic trophic specialization: a robust comparison of herbivorous guilds"
+title: "Phylogenetic trophic specialization: a robust comparison of herbivorous guilds"
 collection: publications
 permalink: /publication/2017-jorge-phylogenetictrophic
 excerpt: 'Resource specialization is a key concept in ecology, but it is unexpectedly difficult to parameterize. Differences in resource availability, sampling effort and abundances preclude comparisons of incompletely sampled biotic interaction webs. Here, we extend the distance-based specialization index (DSI) that measures trophic specialization by taking resource phylogenetic relatedness and availability into account into a rescaled version, DSI\*.'
 date: 2017-12-01
 venue: 'Oecologia'
-paperurl: 'http://academicpages.github.io/files/Jorge et al. - 2017 - Phylogenetic trophic specialization a robust comp.pdf'
+paperurl: 'http://leorjorge.github.io/files/Jorge et al. - 2017 - Phylogenetic trophic specialization a robust comp.pdf'
 citation: 'Jorge, L.R., Novotny, V., Segar, S.T., Weiblen, G.D., Miller, S.E., Basset, Y., Lewinsohn, T.M., 2017. Phylogenetic trophic specialization: a robust comparison of herbivorous guilds. *Oecologia* 185, 551–559.'
 ---
 

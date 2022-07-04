@@ -5,7 +5,7 @@ permalink: /publication/2011-jorge-heliconius
 excerpt: 'Most phytophagous insects feed on a single plant during development, and this may influence not only performance-linked traits, but also more subtle morphological differences. Insect–plant interactions are thus valuable for studying environmental influences on phenotypes. By using geometric morphometrics, we investigated the variation in forewing size and shape in the butterfly *Heliconius erato phyllis* reared on six species of passion vines (*Passiflora* spp.).'
 date: 2011-04-01
 venue: 'Biological Journal of the Linnean Society'
-paperurl: 'http://academicpages.github.io/files/Jorge et al. - 2011 - Host-plant dependent wing phenotypic variation in .PDF'
+paperurl: 'http://leorjorge.github.io/files/Jorge et al. - 2011 - Host-plant dependent wing phenotypic variation in .PDF'
 citation: 'Jorge, L.R., Cordeiro-Estrela, P., Klaczko, L.B., Moreira, G.R.P., Freitas, A.V.L., 2011. "Host-plant dependent wing phenotypic variation in the neotropical butterfly *Heliconius erato*". *Biological Journal of the Linnean Society* 102, 765–774'
 ---
 
