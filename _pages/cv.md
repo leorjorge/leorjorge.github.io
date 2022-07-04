@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, University of Campinas, 2006
+* M.S. in Ecology, University of Campinas, 2009
+* Ph.D in Ecology, University of Campinas, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2019-present: Post-Doctoral researcher, Department of Ecology, Institute of Entomology, Biology Centre of the Czech Academy of Sciences, Czech Republic
+
+* 2018-2019: Post-Doctoral researcher, Department of Zoology, University of South Bohemia, Czech Republic. 
+2017-2018: Post-Doctoral Internship, Department of Ecology, Institute of Entomology, Biology Centre of the Czech Academy of Sciences, Czech Republic 
+
+* 2015-2018: Post-Doctoral researcher, Department of Animal Biology, University of Campinas, Brazil
+
+Research expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Community Ecology and Biodiversity, Ecological interactions, Ecophylogenetics, Functional traits, Statistical modeling
 
 Publications
 ======
@@ -54,6 +47,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Mentoring
 ======
-* Currently signed in to 43 different slack teams
+Mentoring
+* 2020-present		Co-supervisor of one PhD at the graduate program in Entomology at the Faculty of Sciences, University of South Bohemia, Czech Republic.
+* 2022-present		Supervisor of one Msc. student at the program in Ecology at the University of South Bohemia, Czech Republic
+* 2016-present 		Member of the admission committee for 3 PhD students at the University of Campinas, Brazil and Universidade Federal dos Vales do Jequitinhonha e Mucuri, Brazil.
+* 2016-present		External examiner in the defense of 3 PhD and 2 Msc students, as well as member of multiple PhD qualifying exam committees
+
+* Additionally, training of multiple PhD and Masters students in Sampling Design, Data Management, Analysis and Visualization over the last seven years.
