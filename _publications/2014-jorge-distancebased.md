@@ -1,11 +1,11 @@
 ---
 title: "An integrated framework to improve the concept of resource specialisation"
 collection: publications
-permalink: /publication/2011-jorge-heliconius
+permalink: /publication/2014-jorge-distancebased
 excerpt: 'Resource specialisation, although a fundamental component of ecological theory, is employed in disparate ways. Most definitions derive from simple counts of resource species. We build on recent advances in ecophylogenetics and null model analysis to propose a concept of specialisation that comprises affinities among resources as well as their co-occurrence with consumers. In the distance-based specialisation index (DSI), specialisation is measured as relatedness (phylogenetic or otherwise) of resources, scaled by the null expectation of random use of locally available resources.'
 date: 2014-11-01
 venue: 'Ecology Letters'
-paperurl: 'http://leorjorge.github.io/files/Jorge et al. - 2014 - An integrated framework to improve the concept of .pdf'
+paperurl: '[Download paper here] (http://leorjorge.github.io/files/Jorge et al. - 2014 - An integrated framework to improve the concept of .pdf)'
 citation: 'Jorge, L.R., Prado, P.I., Almeida-Neto, M., Lewinsohn, T.M., 2014. An integrated framework to improve the concept of resource specialisation. *Ecology Letters* 17, 1341–1350.'
 ---
 
