@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Leo Ré Jorge"
 title_separator          : "-"
 name                     : &name "Leonardo Ré Jorge"
 description              : &description "Ecologist at the Department of Ecology, Biology Centre of the Czech Academy of sciences"
@@ -84,9 +84,9 @@ author:
   avatar           : "Profile_Rome.jpg"
   bio              : "Ecologist at the Department of Ecology, Czech Academy of Sciences"
   location         : "České Budějovice, Czech Republic"
-  employer         : "Department of Ecology, ENTU, Biology Centre of the Czech Academy of Sciences"
+  employer         : 
   pubmed           : 
-  googlescholar    : "http://https://scholar.google.com/citations?user=FGtcfXIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=FGtcfXIAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Leonardo-Jorge"
   uri              :
